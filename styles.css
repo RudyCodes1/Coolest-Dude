@@ -1,0 +1,25 @@
+html {
+    background-color: #000000;
+}
+
+h1 {
+    color: #fa0202;
+    font-family: 'Bebas Neue', cursive;
+}
+
+h3 {
+    color: #fa0202;
+}
+
+p {
+    color: #fa0202;
+}
+
+.red {
+    color: #fa0202;
+}
+
+img {
+    width: 300px;
+}
+
